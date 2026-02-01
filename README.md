@@ -10,3 +10,5 @@ This is just an exercise for peer assessment, as requested by the University of 
 - **Kaggle Score:** 0.80079
 - **Leaderboard Rank:** #272
 - **Model:** Architecture RNN using Embedded Layer (to implement Stanford University's GloVe - Thanks a lot to Stanford!) and Bidirectional LSTM layers.
+
+https://www.kaggle.com/competitions/nlp-getting-started/leaderboard?search=papa
